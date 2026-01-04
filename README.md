@@ -1,4 +1,4 @@
-#  Bank Lending Analysis Project  
+#  Bank Loan Analysis Project  
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Domain](https://img.shields.io/badge/Domain-Banking%20Analytics-blue)
