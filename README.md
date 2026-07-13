@@ -134,7 +134,8 @@ This report shows that the bank is currently in a strong position, with most of 
 -  Excel: Used for the early stages of the project to organize requirements and plan our data strategy.
 
 ## 7. Author
-[Ghulam Mustafa]Google Certified Data Analyst 
+Ghulam Mustafa
+Google Certified Data Analyst 
 
 ---
 
